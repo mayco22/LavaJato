@@ -28,10 +28,7 @@ public class Agendamento {
         }
         System.out.println("valorTotal:"+resultado);
     }
-    public Agendamento(){
-        
-    }
-   
+    
     public String getData() {
         return data;
     }
